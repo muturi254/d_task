@@ -2,6 +2,6 @@
 
 
 .vscode/
-pycache/
+*/__pycache__/
 venv/
 env/
